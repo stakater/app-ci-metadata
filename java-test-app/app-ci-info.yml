@@ -2,7 +2,7 @@
 
 # NOTE: The contents of this file should not be updated manually
 # they are to be used and updated by Stakater itself
-ci_data:
+ci-data:
 # Should be 0 at the beginning, will be updated on the first run
-  current_build_number: 7
-  current_version: 0.2.0+7
+  current-build-number: 48
+  current-version: 0.2.0+48
