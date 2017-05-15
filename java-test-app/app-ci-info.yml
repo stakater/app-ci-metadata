@@ -4,5 +4,5 @@
 # they are to be used and updated by Stakater itself
 ci-data:
 # Should be 0 at the beginning, will be updated on the first run
-  current-build-number: 50
+  current-build-number: 51
   current-version: 0.2.0+48
