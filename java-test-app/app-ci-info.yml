@@ -5,4 +5,4 @@
 ci-data:
 # Should be 0 at the beginning, will be updated on the first run
   current-build-number: 70
-  current-version: 0.2.5+68
+  current-version: 0.2.5+70
